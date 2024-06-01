@@ -85,3 +85,12 @@ https://www.cnblogs.com/web-zyl/p/6853748.html
 
 Vue3 + Vite 打包优化及配置
 https://blog.csdn.net/qq_30379395/article/details/134734388
+
+记一次vite 打包优化及插件使用
+https://zhuanlan.zhihu.com/p/660064289
+
+vite-plugin-compression进行gzip压缩
+https://www.jianshu.com/p/90ecbaa18cf9
+
+【vite】vite打包优化：
+https://blog.csdn.net/weixin_53791978/article/details/131247350
