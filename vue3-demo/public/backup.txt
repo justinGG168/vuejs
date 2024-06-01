@@ -82,3 +82,6 @@ https://blog.csdn.net/blue_121/article/details/130823628?spm=1001.2101.3001.6650
 
 适配移动端Swiper的3D旋转木马轮播~
 https://www.cnblogs.com/web-zyl/p/6853748.html
+
+Vue3 + Vite 打包优化及配置
+https://blog.csdn.net/qq_30379395/article/details/134734388
