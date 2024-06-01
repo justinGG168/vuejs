@@ -1,0 +1,84 @@
+美股历史
+https://course.yiwiz.com/zh/us_investment/usstock_cybersecurity_etf.html#%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8etf%E4%BB%8B%E7%BB%8D
+
+提升开发幸福感的4个自动化工具
+https://www.imooc.com/article/298643
+
+前端规范化工作流
+https://segmentfault.com/a/1190000038695647?utm_source=sf-related
+
+文忠三式易经哲学智慧系列之——唯心与唯物篇
+https://baijiahao.baidu.com/s?id=1782501432420217299&wfr=spider&for=pc
+
+百度 search git revert 移除merge历史
+
+Git如何撤销merge操作
+https://www.cnblogs.com/i6010/articles/11128134.html
+https://www.cnblogs.com/liown/p/8954249.html
+https://blog.csdn.net/allanGold/article/details/135344917
+https://blog.csdn.net/weixin_44021417/article/details/122688184?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-122688184-blog-135344917.235^v43^pc_blog_bottom_relevance_base7&spm=1001.2101.3001.4242.1&utm_relevant_index=3
+https://blog.csdn.net/zhaohongfei_358/article/details/127729172
+https://blog.csdn.net/glguan/article/details/131001259
+
+https://blog.csdn.net/qq_26245325/article/details/114279224?spm=1001.2101.3001.6650.9&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-9-114279224-blog-131001259.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-9-114279224-blog-131001259.235%5Ev43%5Epc_blog_bottom_relevance_base7&utm_relevant_index=14
+
+https://blog.csdn.net/u012175512/article/details/105858132/
+
+webstorm的git使用小技巧
+https://blog.csdn.net/u010047432/article/details/117078158
+
+Git 分支 - 变基(rebase和merge的区别)
+https://blog.csdn.net/pushiqiang/article/details/79068449
+
+git rebase （合并代码和整理提交记录）图文详解
+https://blog.csdn.net/wangdawei_/article/details/131669124
+
+git reset 命令详解 git revert命令详解。
+https://blog.csdn.net/wangdawei_/article/details/124543824
+
+vite项目 postcss-px-to-viewport适配vant
+https://blog.csdn.net/slice_93/article/details/134647650
+
+h5应用如何适配移动端(干货总结)
+https://blog.csdn.net/qq_48896417/article/details/137711185
+
+超详细讲解H5移动端适配 —— 移动端适配方案
+https://blog.csdn.net/lb1135909273/article/details/134120730?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-134120730-blog-137711185.235^v43^pc_blog_bottom_relevance_base7&spm=1001.2101.3001.4242.1&utm_relevant_index=3
+
+前端多个vue项目公共组件的三种方法（推荐npm file引入）
+https://blog.csdn.net/milugloomy/article/details/103187370?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-103187370-blog-121153562.235%5Ev43%5Epc_blog_bottom_relevance_base7&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-1-103187370-blog-121153562.235%5Ev43%5Epc_blog_bottom_relevance_base7&utm_relevant_index=2
+
+axios 请求失败后自动重新请求（axios-retry）
+https://juejin.cn/post/6955347999425822728?searchId=2023090517152846790E2EB11AC4E48742
+
+翻译支持 (FM体育)
+https://docs.google.com/spreadsheets/d/1KfUHoK8Rm041_7VEy8xzLAgSJ0SaQQLF9yqUFTWzGVM/edit#gid=2047197375
+
+git操作技巧
+https://learngitbranching.js.org/?locale=zh_CN&NODEMO=
+
+git仓库
+http://54.255.54.57/fm_web
+名称Bolyck  密码abcd12345.
+
+jenkins
+http://52.194.109.59:8080
+名称Bolyck 密码CKHO5CsB
+
+限制<input>输入内容 只允许数字 或者 字母
+https://www.cnblogs.com/tmdsleep/p/4657331.html
+
+比特币(共济会)一个惊天的阴谋
+http://www.hxtop.com/html/bt01/201709105875.html
+
+英语学习网站
+https://www.taodudu.cc/
+
+前端换肤的N种方案，请收下
+https://juejin.cn/post/6844904122643120141
+
+vite打包优化
+https://blog.csdn.net/blue_121/article/details/130823628?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-130823628-blog-131398562.235%5Ev43%5Epc_blog_bottom_relevance_base9&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2-130823628-blog-131398562.235%5Ev43%5Epc_blog_bottom_relevance_base9&utm_relevant_index=5
+
+适配移动端Swiper的3D旋转木马轮播~
+https://www.cnblogs.com/web-zyl/p/6853748.html
