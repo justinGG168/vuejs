@@ -94,3 +94,19 @@ https://www.jianshu.com/p/90ecbaa18cf9
 
 【vite】vite打包优化：
 https://blog.csdn.net/weixin_53791978/article/details/131247350
+
+Vite 静态资源处理
+https://blog.csdn.net/UserLiangjia/article/details/132802457
+
+一文带你打开Vite的新世界
+https://zhuanlan.zhihu.com/p/599610188?utm_id=0
+
+【快速上手】vite打包配置详解—手把手教你配置vite
+https://www.weipxiu.com/8649.html
+
+vite构建打包优化配置
+https://blog.csdn.net/m0_49385985/article/details/137049148
+
+https://github.com/bobby169
+
+https://hack.chat/?w8nn2i2w
